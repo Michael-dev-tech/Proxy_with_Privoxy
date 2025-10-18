@@ -6,7 +6,7 @@ Want to route your network's web traffic through your Raspberry Pi? Setting up P
 
 Before we dive in, you'll just need a Raspberry Pi with Raspberry Pi OS installed, a stable network connection, and to be comfortable using the command line. Make sure you have sudo privileges to run commands as an administrator.
 
-## Getting It Installed and Configured
+## Getting It Installed and Configured 
 
 Alright, let's get started. First things first, it's always a good habit to make sure your Pi's software is up-to-date before installing anything new. You can do that with one command:
 
